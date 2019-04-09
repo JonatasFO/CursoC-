@@ -1,0 +1,11 @@
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.deps.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.runtimeconfig.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.runtimeconfig.dev.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp2.1\ContaBancaria.pdb
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.csprojAssemblyReference.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.csproj.CoreCompileInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.AssemblyInfoInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.AssemblyInfo.cs
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp2.1\ContaBancaria.pdb
