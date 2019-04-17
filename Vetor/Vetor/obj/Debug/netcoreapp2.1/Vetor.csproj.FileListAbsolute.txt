@@ -1,0 +1,10 @@
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\bin\Debug\netcoreapp2.1\Vetor.deps.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\bin\Debug\netcoreapp2.1\Vetor.runtimeconfig.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\bin\Debug\netcoreapp2.1\Vetor.runtimeconfig.dev.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\bin\Debug\netcoreapp2.1\Vetor.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\bin\Debug\netcoreapp2.1\Vetor.pdb
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\obj\Debug\netcoreapp2.1\Vetor.csproj.CoreCompileInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\obj\Debug\netcoreapp2.1\Vetor.AssemblyInfoInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\obj\Debug\netcoreapp2.1\Vetor.AssemblyInfo.cs
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\obj\Debug\netcoreapp2.1\Vetor.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Vetor\Vetor\obj\Debug\netcoreapp2.1\Vetor.pdb
