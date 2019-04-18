@@ -1,0 +1,10 @@
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.deps.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.runtimeconfig.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.runtimeconfig.dev.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\bin\Debug\netcoreapp2.1\Pensionato.pdb
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.csproj.CoreCompileInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.AssemblyInfoInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.AssemblyInfo.cs
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Pensionato\Pensionato\obj\Debug\netcoreapp2.1\Pensionato.pdb
