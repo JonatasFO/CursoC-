@@ -1,0 +1,11 @@
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp2.2\Matrizes.csprojAssemblyReference.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp2.2\Matrizes.csproj.CoreCompileInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp2.2\Matrizes.AssemblyInfoInputs.cache
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp2.2\Matrizes.AssemblyInfo.cs
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp2.2\Matrizes.deps.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp2.2\Matrizes.runtimeconfig.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp2.2\Matrizes.runtimeconfig.dev.json
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp2.2\Matrizes.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\bin\Debug\netcoreapp2.2\Matrizes.pdb
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp2.2\Matrizes.dll
+G:\Arquivos\C#\CursosUdemy\Curso C# Completo\projetos\Matrizes\Matrizes\obj\Debug\netcoreapp2.2\Matrizes.pdb
